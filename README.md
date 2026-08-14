@@ -1,86 +1,89 @@
-## Hi there 👋
 # Hi, I'm Gulfan 👋
 
-### Data Analyst | Python • SQL • Excel • Power BI
+### Data Analyst | Python • SQL • Power BI • Excel
 
-I'm an aspiring Data Analyst with a background in Computer Science, passionate about turning raw data into meaningful insights and clear, actionable visualizations.
+I'm currently seeking an **entry-level Data Analyst / Junior Data Analyst** opportunity where I can apply my skills in **Python, SQL, Excel, Power BI, and data visualization** to real-world business problems.
 
-I enjoy exploring datasets, finding patterns, asking questions, and using data to understand the "why" behind the numbers.
-
-I'm currently building my portfolio through hands-on data analysis projects and looking for my first opportunity as a Data Analyst where I can learn, contribute, and grow.
-
-## 🛠️ Skills & Tools
-
-**Languages & Libraries**
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
-**Data Analysis**
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Statistical Analysis
-- Feature Engineering
-
-**Databases**
-- SQL
-
-**Visualization & BI**
-- Power BI
-- Excel
-
-**Tools**
-- Jupyter Notebook
-- Git & GitHub
-- Kaggle
-
-- ## 📊 Featured Projects
-
-### 🩺 Diabetes Prediction
-Machine learning project exploring factors associated with diabetes and building a predictive model using Python and Scikit-learn.
-
-**Tech:** Python, Pandas, NumPy, Seaborn, Scikit-learn, SVM
+I'm particularly interested in opportunities where I can work with data from collection and cleaning through analysis, visualization, and insight generation, while continuing to grow as a data professional.
 
 ---
 
-### 🎬 Netflix Recommendation System
-A content-based recommendation system that recommends similar Netflix titles using TF-IDF and cosine similarity.
+## About Me
 
-**Tech:** Python, Pandas, Scikit-learn, TF-IDF
+I'm a Computer Science graduate building my career in **Data Analytics** through hands-on projects and continuous learning.
 
----
+I enjoy taking raw and messy datasets, exploring the patterns within them, and turning them into insights that are easy to understand and useful for decision-making.
 
-### 👥 HR Analytics Dashboard
-Interactive dashboard exploring employee demographics, attrition, job roles, and other HR-related metrics to identify patterns and trends.
-
-**Tech:** Power BI, Excel
+My current focus is on strengthening my skills in **SQL, Python, Power BI, Excel, exploratory data analysis, and business-oriented analytics**.
 
 ---
 
-### 📧 Spam Email Detection
-A machine learning project that classifies emails as spam or legitimate using text preprocessing and TF-IDF-based feature extraction.
+##  Skills & Tools
 
-**Tech:** Python, Pandas, Scikit-learn, TF-IDF, Logistic Regression
+### Data Analysis
 
-  ## 🌱 Currently Learning
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Statistical Analysis
+* Feature Engineering
+* Data Storytelling
 
-- Advanced SQL
-- Power BI & DAX
-- Statistics for Data Analysis
-- Machine Learning
-- Data Storytelling
-- Building real-world analytics projects
+### Programming & Libraries
 
-## 🎯 What I'm Looking For
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
 
-I'm currently looking for an entry-level **Data Analyst / Junior Data Analyst** opportunity where I can apply my analytical skills to real-world problems, learn from an experienced team, and grow into a strong data professional.
+### Databases
 
-## 📫 Let's Connect
+* SQL
 
-- 💼 LinkedIn:https://www.linkedin.com/in/gulfan-j-khan-0228a3243
-- 📧 Email: gulfanjkhan@gmail.com
-- 📊 Kaggle:https://www.kaggle.com/gulfan
-- 🐙 GitHub: You're already here!
+### Business Intelligence
+
+* Power BI
+* Excel
+
+### Machine Learning
+
+* Scikit-learn
+* SVM
+* Logistic Regression
+* TF-IDF
+* Cosine Similarity
+
+### Tools
+
+* Jupyter Notebook
+* Git & GitHub
+* Kaggle
+
+
+---
+
+
+## Currently Learning
+
+* Advanced SQL
+* Power BI & DAX
+* Statistics for Data Analysis
+* Data Storytelling
+* End-to-end analytics workflows
+* Applying analytics to real-world business problems
+
+---
+
+
+## Let's Connect
+
+-  LinkedIn: https://www.linkedin.com/in/gulfan-j-khan-0228a3243
+-  Email: gulfanjkhan@gmail.com
+-  Kaggle: https://www.kaggle.com/gulfan
+-  GitHub: You're already here!
+
+---
+
+### Thanks for visiting! 👋
+
