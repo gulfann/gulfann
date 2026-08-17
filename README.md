@@ -5,7 +5,8 @@
   <a href="https://datascienceportfol.io/gulfanjkhan"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gulfan-j-khan-0228a3243"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/gulfan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:gulfanjkhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gulfanjkhan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -49,13 +50,13 @@ Analyzed 3,900 retail transactions to uncover customer segments, spending patter
 - Built an interactive Power BI dashboard visualizing revenue trends across demographics and subscription status
 - Found non-subscribers generated $170K in revenue vs. $63K from subscribers, informing loyalty recommendations
 
-#### 🏬 Superstore Sales Analysis
+#### 🏬 [Superstore Sales Analysis](https://github.com/gulfann/Superstore-Sales-Analysis)
 Processed 9,994 sales records across a full Python → SQL → Power BI pipeline to identify regional revenue and profitability patterns.
 `Python` `PostgreSQL` `Power BI`
 - Found discounts exceeding 30% reduced profitability by 15%
 - Delivered recommendations projected to increase revenue by 8% and profit margins by 6%
 
-#### 📉 Employee Attrition Analysis
+#### 📉 [Employee Attrition Analysis](https://github.com/gulfann/HR-Analytics-EDA)
 Analyzed HR data in Python to uncover a 23.81% overall turnover rate and its key drivers.
 `Python` `Pandas` `Seaborn` `Plotly`
 - Compared attrition across departments (15%–29%), salary bands, and tenure
@@ -64,11 +65,6 @@ Analyzed HR data in Python to uncover a 23.81% overall turnover rate and its key
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gulfann&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulfann&layout=compact&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulfann&hide_border=true" />
