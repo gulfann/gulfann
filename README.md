@@ -11,18 +11,18 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 
-- 🎓 Computer Science graduate with hands-on experience in **SQL, Power BI, Python, and Excel**
-- 📊 I build end-to-end analytics pipelines — from data cleaning and database querying to interactive dashboards
-- 🔍 I like digging past the surface numbers to find the *why* behind the data
-- 🌱 Currently sharpening my SQL problem-solving on LeetCode and expanding my project portfolio
-- 💼 Looking for an entry-level **Data Analyst** role where I can turn data into decisions
-- 📍 Based in Bangalore, India
+- Computer Science graduate with hands-on experience in **SQL, Power BI, Python, and Excel**
+- I build end-to-end analytics pipelines — from data cleaning and database querying to interactive dashboards
+- I like digging past the surface numbers to find the *why* behind the data
+- Currently sharpening my SQL problem-solving on LeetCode and expanding my project portfolio
+- Looking for an entry-level **Data Analyst** role where I can turn data into decisions
+- Based in Bangalore, India
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -41,22 +41,22 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
-#### 🛍️ [Customer Shopping Behavior Analysis](https://github.com/gulfann/customer_behavior_analysis)
+####  [Customer Shopping Behavior Analysis](https://github.com/gulfann/customer_behavior_analysis)
 Analyzed 3,900 retail transactions to uncover customer segments, spending patterns, and purchase drivers.
 `Python` `PostgreSQL` `Power BI`
 - Segmented customers into Loyal (3,116), Returning (701), and New (83) groups
 - Built an interactive Power BI dashboard visualizing revenue trends across demographics and subscription status
 - Found non-subscribers generated $170K in revenue vs. $63K from subscribers, informing loyalty recommendations
 
-#### 🏬 [Superstore Sales Analysis](https://github.com/gulfann/Superstore-Sales-Analysis)
+####  [Superstore Sales Analysis](https://github.com/gulfann/Superstore-Sales-Analysis)
 Processed 9,994 sales records across a full Python → SQL → Power BI pipeline to identify regional revenue and profitability patterns.
 `Python` `PostgreSQL` `Power BI`
 - Found discounts exceeding 30% reduced profitability by 15%
 - Delivered recommendations projected to increase revenue by 8% and profit margins by 6%
 
-#### 📉 [Employee Attrition Analysis](https://github.com/gulfann/HR-Analytics-EDA)
+####  [Employee Attrition Analysis](https://github.com/gulfann/HR-Analytics-EDA)
 Analyzed HR data in Python to uncover a 23.81% overall turnover rate and its key drivers.
 `Python` `Pandas` `Seaborn` `Plotly`
 - Compared attrition across departments (15%–29%), salary bands, and tenure
@@ -64,7 +64,7 @@ Analyzed HR data in Python to uncover a 23.81% overall turnover rate and its key
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulfann&hide_border=true" />
@@ -72,7 +72,7 @@ Analyzed HR data in Python to uncover a 23.81% overall turnover rate and its key
 
 ---
 
-### 🏆 Certifications
+### Certifications
 
 - **PwC Switzerland** – Power BI Job Simulation
 - **IBM SkillsBuild** – Data Fundamentals
@@ -81,5 +81,5 @@ Analyzed HR data in Python to uncover a 23.81% overall turnover rate and its key
 ---
 
 <p align="center">
-  <i>📫 Let's connect — always open to Data Analyst opportunities and collaboration on data projects.</i>
+  <i>Let's connect — always open to Data Analyst opportunities and collaboration on data projects.</i>
 </p>
