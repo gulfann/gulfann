@@ -61,6 +61,17 @@ Analyzed HR data in Python to uncover a 23.81% overall turnover rate and its key
 - Compared attrition across departments (15%–29%), salary bands, and tenure
 - Found job satisfaction as the strongest predictor of attrition (correlation of –0.39)
 
+<h4><a href="https://github.com/gulfann/wayfair-ai-agent-externship">🤖 Wayfair AI Agent Engineering Externship</a></h4>
+<p>Completed a five-project AI automation externship through Extern, focused on competitive product research for Wayfair’s rug category.</p>
+<code>n8n</code> <code>AI Agents</code> <code>Google Sheets</code> <code>Workflow Automation</code>
+<ul>
+  <li>Designed multi-agent workflows for market trend discovery and competitor monitoring</li>
+  <li>Explored AI-powered moodboard generation from style prompts</li>
+  <li>Transformed research signals into insights, blog ideas, and marketing captions</li>
+  <li>Consolidated datasets and AI-generated insights into a Google Sheets dashboard</li>
+  <li>Completed all five projects and the final presentation</li>
+</ul>
+
 ---
 
 ### GitHub Stats
