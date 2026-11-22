@@ -2,7 +2,9 @@
 <h3 align="center">Data Analyst | Turning raw data into business insights with SQL, Python & Power BI</h3>
 
 <p align="center">
-  <a href="https://www.datascienceportfol.io/gulfanjkhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.datascienceportfol.io/gulfanjkhan">
+  <img src="https://img.shields.io/badge/Data%20Portfolio-View-2E86AB?style=for-the-badge&logo=readme&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/gulfan-j-khan-0228a3243"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/gulfan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gulfanjkhan@gmail.com">
